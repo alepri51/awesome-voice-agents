@@ -201,6 +201,7 @@ OpenAI Whisper is the most powerful open-source speech recognition model, but do
 | [Groq Whisper](https://groq.com/) | Whisper-large-v3/-turbo served on Groq LPUs for ultra-low-latency, very high-throughput transcription/translation. | Groq LPU 跑 Whisper，超低延迟高吞吐 |
 | [Gradium](https://gradium.ai/) | Streaming STT with built-in semantic VAD. End-of-turn probabilities every 80ms for voice agents. | 流式 STT，内置语义 VAD，80ms 话末概率 |
 | [Palatine Speech](https://speech.palatine.ru/) | Cloud speech API for transcription, speaker diarization, sentiment analysis, and AI summarization, with an OpenAI-compatible transcription endpoint. | 云端语音 API，支持转录、说话人分离、情感分析和 AI 摘要 |
+| [Rechetext](https://rechetext.ru/api) | Russian speech-to-text API and web app: punctuation, speaker diarization with names kept across recordings, word timestamps. Open WER benchmark on 2,398 public recordings. | 俄语语音转写 API，含标点、说话人分离与词级时间戳，公开 WER 基准 |
 
 ---
 
